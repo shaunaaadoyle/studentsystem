@@ -11,7 +11,7 @@ public class UsernameTest extends TestCase {
 	   //creating a new student with their details
 	   public void setUp(){
 		   
-	      shauna = new Student("Shauna","Doyle", 13417068, 20, "1995-11-20");
+	      shauna = new Student("Shauna","Doyle", 13417068, 20, "1995-11-20", "CS&IT");
 	   }
 	   
 	   public void testAdd() {
